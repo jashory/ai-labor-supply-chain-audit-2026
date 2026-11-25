@@ -1,0 +1,90 @@
+{
+  "report_id": "VF-AI-LABOR-2026-009",
+  "zenodo_record_id": 24535562,
+  "zenodo_doi": "10.5281/zenodo.24535562",
+  "zenodo_url": "https://doi.org/10.5281/zenodo.24535562",
+  "github_repo": "https://github.com/jashory/ai-labor-supply-chain-audit-2026",
+  "title": "Automated CGNAT False-Positive Deactivations, Unmonitored Legal-Notice Endpoints, and Post-Completion Compensation Withholding in Global AI Data-Labeling Supply Chains: A Primary-Source Empirical Case Study",
+  "version": "1.0",
+  "published_date": "2026-11-25",
+  "authors": [
+    {
+      "name": "HM Shihabuddin Jashory",
+      "orcid": "0009-0003-4163-0092",
+      "affiliation": "Vision Flow Research Lab, Bangladesh",
+      "email": "founder@visionflowgroup.com"
+    },
+    {
+      "name": "Md Rafiul Islam Shubho",
+      "orcid": "0009-0009-9956-4511",
+      "affiliation": "Vision Flow Research Lab, Bangladesh",
+      "email": "mdrafiulislamshubho@gmail.com"
+    }
+  ],
+  "subject_platform": "Outlier AI / Scale AI, Inc. (Smart Ecosystem, Inc., San Francisco, CA)",
+  "worker_id": "wfe-6a4d30455a2baa054157616c",
+  "ftc_consumer_sentinel_report": "210413292",
+  "verified_prior_payout": {
+    "date_utc": "2026-07-29T04:50:36Z",
+    "amount_usdc": 408.55,
+    "rail": "AirTM",
+    "operation_id": "F8B4BJ4AC9DTBE9B"
+  },
+  "disputed_unpaid_cycle": {
+    "period": "2026-07-29 to 2026-08-04",
+    "project": "Project Aether (Outlier Marketplace)",
+    "estimated_balance_usd": 377.0,
+    "confirmed_mission_bonus_usd": 2.56,
+    "disbursed_usdc_to_date": 0.0
+  },
+  "exhibits": [
+    {
+      "id": "Exhibit_A",
+      "timestamp_bst": "2026-07-27T08:10:00+06:00",
+      "sender": "Outlier AI <no-reply@outlier.ai>",
+      "subject": "An update on your Outlier account",
+      "key_verbatim_excerpt": "This decision is final."
+    },
+    {
+      "id": "Exhibit_B",
+      "timestamp_bst": "2026-07-28T00:55:00+06:00",
+      "sender": "Outlier AI <no-reply@outlier.ai>",
+      "subject": "Your account has been reactivated",
+      "key_verbatim_excerpt": "Upon review, we determined that your account was deactivated in error. We want to apologize for the confusion and inconvenience this has caused — you are a highly valued member of the Outlier community."
+    },
+    {
+      "id": "Exhibit_C",
+      "timestamp_utc": "2026-07-29T04:50:36Z",
+      "sender": "Scale AI, Inc. via AirTM",
+      "reference": "F8B4BJ4AC9DTBE9B",
+      "key_verbatim_excerpt": "+408.55 USDC credited cleanly to verified AirTM account."
+    },
+    {
+      "id": "Exhibit_D",
+      "timestamp_bst": "2026-08-03T17:55:00+06:00",
+      "sender": "Outlier AI <no-reply@outlier.ai>",
+      "subject": "Congrats! You've completed a mission",
+      "key_verbatim_excerpt": "You have earned a $2.56 reward for completing the Get (re)Started on Aether! mission. This will be paid out in your next earnings cycle."
+    },
+    {
+      "id": "Exhibit_E",
+      "timestamp_bst": "2026-11-24T18:58:00+06:00",
+      "sender": "Legal Notices <legalnotices+noreply@scale.com>",
+      "subject": "Re: URGENT FINANCE PAYOUT SETTLEMENT (~377 USD) — Routed Ticket #5348192",
+      "key_verbatim_excerpt": "Please note: This inbox is not monitored for general inquiries. This automated system only processes arbitration opt-out requests."
+    },
+    {
+      "id": "Exhibit_F",
+      "timestamp_bst": "2026-11-25T06:25:00+06:00",
+      "sender": "Clara S. (Outlier) via Zendesk Ticket #5348192",
+      "zendesk_closed_bst": "2026-11-25T19:03:00+06:00",
+      "key_verbatim_excerpt": "we are unable to confirm balances or provide further detail on individual earnings. We are unable to provide further details regarding this decision, and this matter is now considered closed. No additional appeals will be received."
+    }
+  ],
+  "right_of_reply_sent_utc": "2026-11-25",
+  "right_of_reply_recipients": [
+    "legal@scale.com",
+    "press@scale.com",
+    "comms@scale.com"
+  ]
+}
